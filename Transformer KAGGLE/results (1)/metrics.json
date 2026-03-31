@@ -1,0 +1,20 @@
+{
+  "token_accuracy": 1.1068195192940447,
+  "sequence_accuracy": 0.17612067134055662,
+  "bleu_score": 0.0,
+  "perplexity": 0.0,
+  "symbolic_accuracy": 0.17243821259117625,
+  "symbolic_equivalence_rate": 0.001345513773812053,
+  "by_complexity": {
+    "unknown": {
+      "sequence_accuracy": 0.17612067134055662,
+      "symbolic_accuracy": 0.17243821259117625,
+      "token_accuracy": 2.1170094185964166,
+      "count": 14121
+    }
+  },
+  "by_base_function": {},
+  "total_samples": 14121,
+  "correct_predictions": 2487,
+  "symbolic_matches": 2435
+}
