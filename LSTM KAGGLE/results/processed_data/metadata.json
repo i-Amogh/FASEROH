@@ -1,0 +1,30 @@
+{
+  "vocab_size_input": 30,
+  "vocab_size_output": 31,
+  "max_input_length": 50,
+  "max_output_length": 100,
+  "train_samples": 32500,
+  "test_samples": 14121,
+  "sequence_stats": {
+    "input": {
+      "mean": 19.15033846153846,
+      "std": 8.21318535840983,
+      "max": 111,
+      "percentile_95": 33.0,
+      "percentile_99": 45.0
+    },
+    "target": {
+      "mean": 65.61609230769231,
+      "std": 84.44526037320965,
+      "max": 1159,
+      "percentile_95": 184.0,
+      "percentile_99": 462.0099999999984
+    }
+  },
+  "special_tokens": {
+    "pad": 0,
+    "unk": 1,
+    "start": 2,
+    "end": 3
+  }
+}
